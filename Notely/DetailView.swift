@@ -16,4 +16,5 @@ struct DetailView: View {
 
 #Preview {
     DetailView()
+        .preview()
 }
